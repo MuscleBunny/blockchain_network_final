@@ -1,3 +1,3 @@
 # Blockchain in Go
 
-simple and basic bloch chain by go
+simple and basic blockchain by go
